@@ -29,7 +29,7 @@ library
     , OverloadedStrings
     , StandaloneDeriving
   build-depends:
-      base >=4.11 && <4.12
+      base >=4.11 && <5.0
     , aeson >= 1.4
     , bytestring >= 0.10
     , directory >= 1.3
